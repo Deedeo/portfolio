@@ -1,0 +1,1 @@
+chrome-extension://glcimepnljoholdmjchkloafkggfoijh/wdsupport/wd_extension.js
